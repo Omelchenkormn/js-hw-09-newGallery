@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/js-hw-09-newGallery/static/css/main.31d6cfe0.css",
+    "main.js": "/js-hw-09-newGallery/static/js/main.31d6cfe0.js",
+    "index.html": "/js-hw-09-newGallery/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.31d6cfe0.js"
+  ]
+}
